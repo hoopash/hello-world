@@ -2,13 +2,5 @@
 practice repository
 I'm making some simple changes here. Harold is a sheep. Baaaa. 
 
+This is a new learning adventure with git, yayay
 
-Plop
-Boom
-Zoom
-Zip
-Zanggg
-Laalalalalala
-Sssshhhhhhh
-Caabooom
-DrripDrippp.
