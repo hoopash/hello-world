@@ -1,0 +1,36 @@
+# macOS system files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment folders
+.env/
+.venv/
+env/
+venv/
+
+# VSCode settings (if you use it)
+.vscode/
+
+# Logs and output
+*.log
+
+# Environment files
+*.env
+*.env.*
+
+# Sagemaker and AWS artifacts
+*.sagemaker/
+*.aws/
+
+# Ignore any CSV or temp data files (optional)
+*.csv
+*.tmp
