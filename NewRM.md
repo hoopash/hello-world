@@ -1,1 +1,0 @@
-Why don't I have a way to create a file directly in my finder window, gah. 
